@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_compartir"
+        android:title="@string/h4_compartir" />
+    <item
+        android:id="@+id/menu_archivar"
+        android:title="@string/h4_archivar" />
+    <item
+        android:id="@+id/menu_eliminar"
+        android:title="@string/h4_eliminar" />
+</menu>

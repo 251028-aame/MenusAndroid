@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Menus Android</string>
+
+    <string name="msg_seleccionaste">Seleccionaste: %1$s</string>
+    <string name="msg_accion_barra">Acción de la barra superior: %1$s</string>
+    <string name="txt_resultado_inicial">Aquí va a aparecer la opción que elijas</string>
+    <string name="txt_presiona_texto">Presiona el texto</string>
+
+    <!-- Pantalla principal -->
+    <string name="titulo_principal">Menús</string>
+    <string name="titulo_hoja1">Hoja 1 - Menú de opciones</string>
+    <string name="titulo_hoja2">Hoja 2 - Grupos y activables</string>
+    <string name="titulo_hoja3">Hoja 3 - Menú contextual</string>
+    <string name="titulo_hoja4">Hoja 4 - Modo de acción</string>
+    <string name="titulo_hoja5">Hoja 5 - Menú emergente</string>
+    <string name="btn_mostrar_emergente">Mostrar menú emergente</string>
+
+    <!-- Hoja 1 -->
+    <string name="h1_buscar">Buscar</string>
+    <string name="h1_configuracion">Configuración</string>
+    <string name="h1_ayuda">Ayuda</string>
+
+    <!-- Hoja 2 -->
+    <string name="h2_rojo">Rojo</string>
+    <string name="h2_azul">Azul</string>
+    <string name="h2_verde">Verde</string>
+
+    <!-- Hoja 3 -->
+    <string name="h3_editar">Editar</string>
+    <string name="h3_copiar">Copiar</string>
+    <string name="h3_eliminar">Eliminar</string>
+
+    <!-- Hoja 4 -->
+    <string name="h4_titulo_accion">Opciones avanzadas</string>
+    <string name="h4_subtitulo_accion">Elemento seleccionado</string>
+    <string name="h4_compartir">Compartir</string>
+    <string name="h4_archivar">Archivar</string>
+    <string name="h4_eliminar">Eliminar</string>
+
+    <!-- Hoja 5 -->
+    <string name="h5_reportar">Reportar spam</string>
+    <string name="h5_silenciar">Silenciar</string>
+    <string name="h5_importante">Marcar como importante</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/opcion_editar"
+        android:title="@string/h3_editar" />
+    <item
+        android:id="@+id/opcion_copiar"
+        android:title="@string/h3_copiar" />
+    <item
+        android:id="@+id/opcion_eliminar"
+        android:title="@string/h3_eliminar" />
+</menu>
